@@ -10,8 +10,6 @@ This project explores pizza sales data using **SQL** to derive actionable busine
 - Calculate important business KPIs  
 - Discover revenue trends by day and month  
 - Understand customer behavior and pizza performance  
-- Write optimized SQL queries using CTEs, joins, window functions, etc.
-
 ---
 
 ## 📊 Key Metrics (KPIs) Calculated
