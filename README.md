@@ -1,22 +1,35 @@
-🍕 Pizza Sales Data Analysis – SQL Project
+# 🍕 Pizza Sales Data Analysis using SQL
 
-This project analyzes pizza sales data using SQL to uncover meaningful business insights and key performance indicators (KPIs). The goal is to understand sales trends, customer behavior, and product performance to support data-driven decision-making.
+This project explores pizza sales data using **SQL** to derive actionable business insights. It focuses on calculating key performance indicators (KPIs), identifying sales trends, and understanding customer ordering patterns.
 
-✅ Key Objectives
+---
 
-Explore and clean raw pizza sales data
+## ✅ Project Objectives
 
-Write optimized SQL queries to extract insights
+- Analyze raw pizza sales data using SQL  
+- Calculate important business KPIs  
+- Discover revenue trends by day and month  
+- Understand customer behavior and pizza performance  
+- Write optimized SQL queries using CTEs, joins, window functions, etc.
 
-Calculate important business KPIs
+---
 
-Analyze sales performance across different time periods (daily & monthly)
+## 📊 Key Metrics (KPIs) Calculated
 
-📊 Key Metrics (KPIs) Analyzed
-KPI	Description
-Total Revenue	Total sales generated from all pizza orders
-Total Orders	Count of unique orders placed
-Average Order Value (AOV)	Total revenue ÷ total orders
-Average Pizzas Per Order	Total pizzas sold ÷ total orders
-Total Pizzas Sold	Sum of all pizza quantities ordered
-Daily & Monthly Sales Performance	Revenue trends by day and month to identify high-performing time periods
+| KPI | Description |
+|-----|-------------|
+| **Total Revenue** | Total money earned from all pizza sales |
+| **Total Orders** | Total number of unique orders placed |
+| **Average Order Value (AOV)** | Total revenue ÷ total orders |
+| **Average Pizzas per Order** | Total pizzas sold ÷ total orders |
+| **Total Pizzas Sold** | Total sum of pizza quantities ordered |
+| **Daily Sales Performance** | Revenue generated each day |
+| **Monthly Sales Performance** | Revenue generated each month |
+
+## 💡 Insights from Analysis
+
+✔ Best & worst-selling pizza types and sizes  
+✔ Peak revenue days and months  
+✔ How much revenue an average order generates  
+✔ Average number of pizzas per order  
+✔ Sales growth trends & business improvement opportunities  
